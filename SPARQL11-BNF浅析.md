@@ -58,7 +58,7 @@ S -> '(' S ')' -> '(' '(' S ')' ')' -> '(' '(' '(' ')' ')' ')'
 
 ### 例3
 
-最后展示一个实用些的例子。本例中将会使用扩展的BNF范式，参见文档https://www.w3.org/TR/xml11/#sec-notation。SPARQL的BNF也采用了该规范。
+最后展示一个实用些的例子。本例中将会使用扩展的BNF范式，参见[文档](https://www.w3.org/TR/xml11/#sec-notation)。SPARQL的BNF也采用了该规范。
 
 语言$G_3$表示整数的四则运算，其初始符号为`expr`，推导规则如下：
 
@@ -188,7 +188,7 @@ SELECT ?bookname WHERE {
 }
 ```
 
-`book:title|rdfs:label`是一条**属性路径**，其定义详见文档https://www.w3.org/TR/2013/REC-sparql11-query-20130321/#propertypaths。文档中规定了`^`、`/`、`|`等操作符的优先级。从下面的图例中可以看出，BNF的设计是符合优先级定义的（相关讨论见前文“BNF范式初步”的例3）。
+`book:title|rdfs:label`是一条**属性路径**，其定义详见[文档](https://www.w3.org/TR/2013/REC-sparql11-query-20130321/#propertypaths)。文档中规定了`^`、`/`、`|`等操作符的优先级。从下面的图例中可以看出，BNF的设计是符合优先级定义的（相关讨论见前文“BNF范式初步”的例3）。
 
 <img src="figure/VerbPath.png" alt="VerbPath" style="zoom: 67%;" />
 
