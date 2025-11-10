@@ -1,6 +1,8 @@
 # SPARQL 1.1 BNF浅析
 
-SPARQL 1.1的BNF：https://www.w3.org/TR/2013/REC-sparql11-query-20130321/#sparqlGrammar
+本文已在Github开源，可前往查看：https://github.com/qmj0923/SPARQL11-BNF-introduction
+
+SPARQL 1.1的BNF（官方文档）：https://www.w3.org/TR/2013/REC-sparql11-query-20130321/#sparqlGrammar
 
 对SPARQL查询做语法解析的Python工具：https://github.com/qmj0923/SPARQL-PLY
 
@@ -327,6 +329,8 @@ GraphPatternNotTriples -> Filter
 ```
 
 ## SPARQL-BNF分类
+
+SPARQL 1.1共173个BNF，分类如下。
 
 ### Terminal
 
