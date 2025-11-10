@@ -1,10 +1,12 @@
 # SPARQL 1.1 BNF浅析
 
-本文已在Github开源，可前往查看：https://github.com/qmj0923/SPARQL11-BNF-introduction
+本文已在Github开源，可前往查看：https://github.com/qmj0923/SPARQL11-introduction
 
-SPARQL 1.1的BNF（官方文档）：https://www.w3.org/TR/2013/REC-sparql11-query-20130321/#sparqlGrammar
+相关资料和工具：
 
-对SPARQL查询做语法解析的Python工具：https://github.com/qmj0923/SPARQL-PLY
+- **如果从未接触过SPARQL，请先阅读和学习[SPARQL文档导读](./SPARQL文档导读)**
+- SPARQL 1.1的BNF（官方文档）：https://www.w3.org/TR/2013/REC-sparql11-query-20130321/#sparqlGrammar
+- 对SPARQL查询做语法解析的Python工具：https://github.com/qmj0923/SPARQL-PLY
 
 ## BNF范式初步
 
