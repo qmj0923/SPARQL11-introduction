@@ -4,7 +4,7 @@
 
 相关资料和工具：
 
-- **如果从未接触过SPARQL，请先阅读和学习[SPARQL文档导读](./SPARQL文档导读)**
+- **如果从未接触过SPARQL，请先阅读和学习[SPARQL文档导读](./SPARQL文档导读.md)**
 - SPARQL 1.1的BNF（官方文档）：https://www.w3.org/TR/2013/REC-sparql11-query-20130321/#sparqlGrammar
 - 对SPARQL查询做语法解析的Python工具：https://github.com/qmj0923/SPARQL-PLY
 
